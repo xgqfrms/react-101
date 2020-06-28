@@ -20,7 +20,7 @@
     "editor.formatOnPaste": false,
     "editor.renderWhitespace": "all",
     "editor.fontSize": 16,
-    "editor.tabSize": 4,
+    "editor.tabSize": 2,
     "editor.multiCursorModifier": "alt",
     "editor.wordWrap": "on",
     "editor.insertSpaces": true,
